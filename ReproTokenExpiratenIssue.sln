@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproTokenExpiratenIssue", "ReproTokenExpiratenIssue\ReproTokenExpiratenIssue.csproj", "{30FC4ED5-E058-4B16-A70C-77BC31429D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FC4ED5-E058-4B16-A70C-77BC31429D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FC4ED5-E058-4B16-A70C-77BC31429D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FC4ED5-E058-4B16-A70C-77BC31429D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FC4ED5-E058-4B16-A70C-77BC31429D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B10B150F-9312-42EC-81C5-8F31B605C6D1}
+	EndGlobalSection
+EndGlobal
